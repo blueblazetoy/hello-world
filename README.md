@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi Humans!
+
+Just hanging out here learning shit and shit. New to C#
